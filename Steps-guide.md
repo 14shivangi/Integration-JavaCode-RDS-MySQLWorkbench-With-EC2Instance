@@ -1,8 +1,6 @@
 
 # 🚀 Follow these steps to replicate the project:-
 
-![Architecture Diagram](https://raw.githubusercontent.com/your-username/aws-java-db-demo/main/images/architecture.png)
-
 
 ## ☁️**Step 1: Launch an EC2 Instance**
 1. Go to the **AWS Management Console → EC2 → Launch Instance**.  
